@@ -62,3 +62,6 @@
 0:0:0:0:0:0:0:1 - - [25/Oct/2026:14:53:01 +0530] "GET /Assignment30/PatientRecords/viewPatients.jsp HTTP/1.1" 200 809
 0:0:0:0:0:0:0:1 - - [25/Oct/2026:14:53:20 +0530] "GET /Assignment30/PatientRecords/index.jsp HTTP/1.1" 200 839
 0:0:0:0:0:0:0:1 - - [25/Oct/2026:14:53:21 +0530] "GET /Assignment30/PatientRecords/deletePatient.jsp HTTP/1.1" 200 352
+0:0:0:0:0:0:0:1 - - [25/Oct/2026:14:53:38 +0530] "POST /Assignment30/PatientRecords/deletePatient.jsp HTTP/1.1" 200 390
+0:0:0:0:0:0:0:1 - - [25/Oct/2026:14:53:52 +0530] "GET /Assignment30/PatientRecords/index.jsp HTTP/1.1" 200 839
+0:0:0:0:0:0:0:1 - - [25/Oct/2026:14:53:54 +0530] "GET /Assignment30/PatientRecords/viewPatients.jsp HTTP/1.1" 200 708
